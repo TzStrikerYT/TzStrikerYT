@@ -6,7 +6,7 @@
 
 ✅ Currently I specialize in web development, but today you can see me studying
 many other things about programming
-<br>
+
 <b>You can find me on:<b>
 <br>
 <br>
