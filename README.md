@@ -30,9 +30,7 @@ many other things about programming
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 
-<details>
-	<summary>🧍📊&nbsp;&nbsp;&nbsp;<b>GitHub Stats</b></summary>
-	<br/>
-	<img src="https://jf-gh-stats.vercel.app/api?username=TzStrikerYT&show_icons=true&count_private=true&title_color=3867D6&icon_color=3867D6" alt="GitHub Stats" align="top"/>
-	<img src="https://jf-gh-stats.vercel.app/api/top-langs/?username=TzStrikerYT&layout=compact&hide=java&title_color=3867D6&icon_color=3867D6" alt="GitHub Top Languages" align="top"/>
-</details>
+
+# 🧍📊 GitHub Stats
+<img src="https://jf-gh-stats.vercel.app/api?username=TzStrikerYT&show_icons=true&count_private=true&title_color=3867D6&icon_color=3867D6" alt="GitHub Stats" align="top"/>
+<img src="https://jf-gh-stats.vercel.app/api/top-langs/?username=TzStrikerYT&layout=compact&hide=java&title_color=3867D6&icon_color=3867D6" alt="GitHub Top Languages" align="top"/>
