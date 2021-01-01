@@ -8,7 +8,6 @@
 many other things about programming
 
 <b>You can find me on:<b>
-
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/michael-cocuy)
 
 # 🏋️‍♂️ My Skills
