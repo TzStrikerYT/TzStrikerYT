@@ -8,9 +8,12 @@
 many other things about programming
 
 <b>You can find me on:<b>
+<br>
+<br>
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/michael-cocuy)
 
 # 🏋️‍♂️ My Skills
+<br>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/python-%233a75a5.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23f7de1e" alt="JavaScript"/>
@@ -29,5 +32,6 @@ many other things about programming
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 
 # 🧍📊 GitHub Stats
+<br>
 <img src="https://jf-gh-stats.vercel.app/api?username=TzStrikerYT&show_icons=true&count_private=true&title_color=3867D6&icon_color=3867D6" alt="GitHub Stats" align="top"/>
 <img src="https://jf-gh-stats.vercel.app/api/top-langs/?username=TzStrikerYT&layout=compact&hide=java&title_color=3867D6&icon_color=3867D6" alt="GitHub Top Languages" align="top"/>
