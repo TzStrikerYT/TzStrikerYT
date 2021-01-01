@@ -6,6 +6,7 @@
 
 ✅ Currently I specialize in web development, but today you can see me studying
 many other things about programming
+
 <b>You can find me on:<b>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/michael-cocuy)
@@ -27,6 +28,7 @@ many other things about programming
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="Jquery"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+
 # 🧍📊 GitHub Stats
 <img src="https://jf-gh-stats.vercel.app/api?username=TzStrikerYT&show_icons=true&count_private=true&title_color=3867D6&icon_color=3867D6" alt="GitHub Stats" align="top"/>
 <img src="https://jf-gh-stats.vercel.app/api/top-langs/?username=TzStrikerYT&layout=compact&hide=java&title_color=3867D6&icon_color=3867D6" alt="GitHub Top Languages" align="top"/>
