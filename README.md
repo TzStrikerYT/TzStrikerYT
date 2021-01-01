@@ -2,7 +2,7 @@
 
 ✅ I'm full stack software developer from colombia
 
-✅ I am passionate about software development
+✅ I'm passionate about software development
 
 ✅ Currently I specialize in web development, but today you can see me studying
 many other things about programming
