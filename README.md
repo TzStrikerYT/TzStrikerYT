@@ -1,6 +1,6 @@
 # 👋 Hello World!<br>I´m Michael Cocuy
 
-✅ I'm full stack software developer from colombia
+✅ I'm full stack software developer from Colombia
 
 ✅ I'm passionate about software development
 
